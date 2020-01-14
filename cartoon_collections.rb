@@ -6,7 +6,8 @@ def summon_captain_planet(ar)
   ar.map{|x| x.capitalize + "!"}
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(ar)
+  ar.include?()
   # Your code here
 end
 
